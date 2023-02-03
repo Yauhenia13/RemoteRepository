@@ -7,4 +7,6 @@
 
 ## Branch merging
 
+* __*git merge branch_name*__ - команда, сливающая текущую ветку с веткой *branch_name*
+
 ## Conflicts
