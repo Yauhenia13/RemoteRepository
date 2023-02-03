@@ -10,4 +10,6 @@
 * __*git merge branch_name*__ - команда, сливающая текущую ветку с веткой *branch_name*
 * __*git branch -d branch_name*__ - команда, удаляющая ветку *branch_name* 
 
+*Fast-forward* - состояние слияние веток, где первая отстающая (master), догнала вторую которая уходила вперед.
+
 ## Conflicts
